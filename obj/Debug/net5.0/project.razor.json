@@ -15638,6 +15638,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\commit\\artec\\Views\\Pintura\\Ir.cshtml",
+      "TargetPath": "Views\\Pintura\\Ir.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\commit\\artec\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
